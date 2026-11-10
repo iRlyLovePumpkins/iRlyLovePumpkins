@@ -35,6 +35,4 @@
 ### 💼 Статус и контакты
 
 * 🚀 **Статус:** Открыта к предложениям (Open for opportunities / Junior Python / Django Backend Developer)
-* ✉️ **Email:** [your.email@example.com](mailto:your.email@example.com)
-* ✈️ **Telegram:** [@your_username](https://t.me/your_username)
-* 💼 **LinkedIn:** [linkedin.com/in/your_profile](https://linkedin.com/in/your_profile)
+* ✈️ **Telegram:** [@your_username](https://t.me/superstar_shit)
