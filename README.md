@@ -1,4 +1,4 @@
-# 👋 Привет! Я Python-разработчик
+# 👋 Привет! Я Python-разработчик.
 
 ### 📝 О себе
 Окончила курс по бэкенду в **Яндекс Практикуме**, имею реальный опыт командной разработки: организовывала совместную работу через GitHub и проектировала API для приложений.
@@ -35,4 +35,4 @@
 ### 💼 Статус и контакты
 
 * 🚀 **Статус:** Открыта к предложениям (Open for opportunities / Junior Python / Django Backend Developer)
-* ✈️ **Telegram:** [@your_username](https://t.me/superstar_shit)
+* ✈️ **Telegram:** [@superstar_shit](https://t.me/superstar_shit)
